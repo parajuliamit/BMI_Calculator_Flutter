@@ -12,8 +12,8 @@ class RoundIconButton extends StatelessWidget {
       elevation: 6.0,
       onPressed: onPress,
       constraints: BoxConstraints.tightFor(
-        width: 56.0,
-        height: 56.0,
+        width: 46.0,
+        height: 46.0,
       ),
       shape: CircleBorder(),
       fillColor: kButtonColor,
